@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Email-Me-Here</name>
+			<email>hackdyourshit@gmail.com</email>
+			<iconclass>hackz-email</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url>https://github.com/HackdYourShit/hackdyourshit.github.io</url>
+			<iconclass>thumbs-up-mo-fo's</iconclass>
+		</link>
+	</footerlinks>
+</repo>
